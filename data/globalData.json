@@ -1,80 +1,109 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Goodnight Orthodontics",
+  "domain": "goodnightortho.com",
+  "email": "braces@goodnightortho.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(813) 968-3737",
+    "href": "tel:+18139683737",
+    "aria": "8 1 3, 9 6 8, 3 7 3 7"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Westchase Office",
       "address": {
-        "street": "9650 Main Street",
+        "street": "12315 W Linebaugh Ave",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "Tampa, FL 33626",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-82.4815040",
+          "latitude": "28.0397113"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(813) 968-3737",
+        "href": "tel:+18139683737"
       },
-      "email": "info@mandtortho.com",
+      "email": "braces@goodnightortho.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon",
+          "time": "8:00am - 5:00pm"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Tue",
+          "time": "8:00am - 5:00pm"
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Wed",
+          "time": "8:00am - 5:00pm"
         },
         {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
+          "day": "Thu",
+          "time": "8:00am - 5:00pm"
         },
         {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Fri",
+          "time": "Some Fridays: 8:00am - 12:00pm"
+        },
+        {
+          "day": "Sat - Sun",
+          "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=12315+W+Linebaugh+Ave+Tampa+FL+33626",
         "label": "Get Directions"
       },
-      "special_note": ""
+      "special_note": "Lunch daily: 12:00pm - 1:30pm. Summer hours may vary — call to confirm."
     },
     {
-      "title": "Tonawanda Office",
+      "title": "South Tampa Office",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "3223 S Dale Mabry Hwy",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Tampa, FL 33629",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "-82.5061141",
+          "latitude": "27.9161459"
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "(813) 805-0206",
+        "href": "tel:+18138050206"
       },
-      "email": "info@mandtortho.com",
-      "hours": [],
+      "email": "braces@goodnightortho.com",
+      "hours": [
+        {
+          "day": "Mon",
+          "time": "8:00am - 5:00pm"
+        },
+        {
+          "day": "Tue",
+          "time": "8:00am - 5:00pm"
+        },
+        {
+          "day": "Wed",
+          "time": "8:00am - 5:00pm"
+        },
+        {
+          "day": "Thu",
+          "time": "8:00am - 5:00pm"
+        },
+        {
+          "day": "Fri",
+          "time": "Some Fridays: 8:00am - 12:00pm"
+        },
+        {
+          "day": "Sat - Sun",
+          "time": "Closed"
+        }
+      ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=3223+S+Dale+Mabry+Hwy+Tampa+FL+33629",
         "label": "Get Directions"
       },
-      "special_note": ""
+      "special_note": "Lunch daily: 12:00pm - 1:30pm. Summer hours may vary — call to confirm."
     }
   ],
   "typography": [
@@ -94,28 +123,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "12315 W Linebaugh Ave, Tampa, FL 33626",
+        "href": "https://www.google.com/maps/search/?api=1&query=12315+W+Linebaugh+Ave+Tampa+FL+33626",
+        "label": "View 12315 W Linebaugh Ave, Tampa, FL 33626 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(813) 968-3737",
+        "href": "tel:+18139683737",
+        "label": "Call 8 1 3. 9 6 8. 3 7 3 7.",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Schedule your complimentary consultation",
+      "text": "Complimentary consultations are available at our Westchase and South Tampa offices. Click to learn what to expect and schedule your visit.",
+      "mobile_text": "Complimentary Consultations",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Schedule a Complimentary Consultation",
+        "text": "<p>At Goodnight Orthodontics we offer a complimentary consultation where a doctor reviews your goals, performs an exam with digital imaging, and creates a tailored treatment plan. Call (813) 968-3737 or use the schedule form to request an appointment.</p>"
       }
     }
   },
@@ -150,7 +179,15 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/GoodnightOrthodontics",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/goodnightorthodontics/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=IBIAev9OX6U",
         "icon": "youtube"
       }
     ],
